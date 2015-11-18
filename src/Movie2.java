@@ -2,6 +2,7 @@
 //4/20/15
 // This program gets the title year and studio of a movie
 // test
+// this line is to test the synce of github
 public class Movie2 
 {
 	private String title;
